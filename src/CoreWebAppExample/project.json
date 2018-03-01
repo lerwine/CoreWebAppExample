@@ -1,4 +1,7 @@
 ﻿{
+  "title": "Example web app",
+  "copyright": "(c) Leonard T. Erwine 2018",
+  "description": "Example web application",
   "dependencies": {
     "Microsoft.NETCore.App": {
       "version": "1.0.1",
@@ -26,7 +29,8 @@
 
   "buildOptions": {
     "emitEntryPoint": true,
-    "preserveCompilationContext": true
+    "preserveCompilationContext": true,
+    "define": [ "DEBUG", "TRACE" ]
   },
 
   "runtimeOptions": {
