@@ -11,7 +11,7 @@
     "url": "git+https://github.com/lerwine/CoreWebAppExample.git"
   },
   "author": "Leonard T. Erwine",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/lerwine/CoreWebAppExample/issues"
   },
