@@ -20,7 +20,7 @@
     "angular": "^1.6.9",
     "bootstrap": "^4.0.0",
     "bootstrap-datetime-picker": "^2.4.4",
-    "bootstrap-select": "^1.12.4",
+    "bootstrap-select": "^1.13.6",
     "bootstrap-table": "^1.11.2",
     "bootstrap3": "^3.3.5",
     "jquery": "^3.3.1",
